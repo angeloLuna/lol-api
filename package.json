@@ -1,0 +1,25 @@
+{
+  "name": "lol-api",
+  "version": "1.0.0",
+  "description": "Excercise of League of legends API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeloLuna/lol-api.git"
+  },
+  "author": "angeloLuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeloLuna/lol-api/issues"
+  },
+  "homepage": "https://github.com/angeloLuna/lol-api#readme",
+  "devDependencies": {
+    "gulp-minify-css": "^1.2.4",
+    "gulp-newer": "^1.2.0",
+    "gulp-prune": "^0.2.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
